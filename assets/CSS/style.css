@@ -77,10 +77,10 @@ body {
     background: #4aaaa5;
   }
   
-  nav {
+  /* nav {
     float: right;
     margin-top: 25px;
-  }
+  } */
   
   nav a {
     display: inline-block;
@@ -216,3 +216,6 @@ body {
     border: 0 none;
   }
   
+  /* .navbar-brand {
+    margin-right: 1070px;
+  } */
